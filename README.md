@@ -1,13 +1,13 @@
-# Simple Messages Store System
+# Simple Message Store System
 
-### **A Python-based _simple messages store system_ using Tkinter GUI**
+### **A Python-based _simple message store system_ using Tkinter GUI**
 
 Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's defacto standard GUI.
 
 
 ## Task Description
 
-A project to build a Python-based simple messages store system. This is simple one type message encryption and decryption system. Here you add message with information and that message hide or insert another file with key and message id, view or search message by entering key and message id from `CSV` file.
+A project to build a Python-based simple message store system. This is simple one type message encryption and decryption system. Here you add message with information and that message hide or insert another file with key and message id, view or search message by entering key and message id from `CSV` file.
 
 
 ## Task Requirments
@@ -69,4 +69,5 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 ## Thank You for Visiting!
 
 > “Good design is about making things simple yet significant”  
+
 > — *Md. Ariful Islam*
