@@ -1,0 +1,9 @@
+Messages Store System
+
+
+1. Add Msg
+    -Enter necessary data with key for store data into CSV file
+    -After enter data then click <Add Msg> button
+
+2. View Msg
+    -Enter message id and key for view message by clicking <View Msg> button
